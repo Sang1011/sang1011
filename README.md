@@ -8,16 +8,24 @@
 
 </div>
 
----
-
 ## 👋 Xin chào, mình là Sang!
-
+ 
 Mình là sinh viên ngành **Công nghệ Thông tin** tại **FPT University**, chuyên ngành **C# .NET**. Mình có đam mê xây dựng các ứng dụng web từ frontend đến backend, đồng thời cũng có kinh nghiệm phát triển ứng dụng mobile và làm game với Unity.
-
+ 
 Với vai trò **Frontend Developer** là thế mạnh chính, mình thường xuyên làm việc với **React**, **Next.js** và **TypeScript** để tạo ra những giao diện mượt mà, hiệu quả. Song song đó, mình cũng tự tin đảm nhận backend với **.NET**, **NestJS** và **Node.js** khi dự án yêu cầu.
-
+ 
+---
+ 
+## 👋 Hi, I'm Sang!
+ 
+I'm an **Information Technology** student at **FPT University**, majoring in **C# .NET**. I'm passionate about building web applications end-to-end — from crafting smooth, responsive UIs to designing robust backend systems.
+ 
+My primary strength lies in **Frontend Development**, where I work extensively with **React**, **Next.js**, and **TypeScript** to deliver clean and performant interfaces. I'm also confident taking on backend responsibilities using **.NET**, **NestJS**, and **Node.js** whenever the project demands it.
+ 
+Beyond web, I have experience building **mobile apps** with React Native and developing **games** using Unity and C#.
+ 
 > 💡 *"Code it, Ship it, Improve it 🚀"*
-
+ 
 ---
 
 ## 🛠️ Tech Stack
@@ -78,12 +86,12 @@ Với vai trò **Frontend Developer** là thế mạnh chính, mình thường x
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sang1011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sang1011&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-five-umber-66.vercel.app/api?username=sang1011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-five-umber-66.vercel.app/api/top-langs/?username=sang1011&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sang1011&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sang1011&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
